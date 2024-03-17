@@ -1,5 +1,5 @@
 **Oyun Ve Uygulama Akademisi GameJam 2024 - Grup 30**
-# Oyun Adı: "BEN DE BİR ELEMENTİM!
+# Oyun Adı: "BEN DE BİR ELEMENTİM!"
 
 ## Oyunun Hikâyesi
 4 element olarak kabul edilen Ateş, Su, Toprak ve Hava, Tahtanın da bir element olma arzusunu reddediyor ve onu hor görüyorlardı. Ancak bir gün Ateş, Su, Toprak ve Hava elementlerinin başı belaya giriyor. Onların yardıma ihtiyacı olduğunu gören Tahta onları kurtarmak ve kendini de kabul ettirme arzusuyla harekete geçiyor.
