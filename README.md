@@ -1,4 +1,4 @@
-**Oyun Ve Uygulama Akademisi GameJam 2024 - Grup 30**
+**Oyun Ve Uygulama Akademisi GameJam 2024 (İKİNCİLİK BAŞARISI EDİNİLDİ)- Grup 30**
 # Oyun Adı: "BEN DE BİR ELEMENTİM!"
 
 ## Oyunun Hikâyesi
